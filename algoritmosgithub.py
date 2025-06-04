@@ -52,4 +52,4 @@ os.system(c)
 
 #enviar para os servidores do github
 c = "git push"
-print(c)
+os.system(c)
